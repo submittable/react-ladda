@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: react-ladda
   description: ""
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/react-ladda
     
   tags: []
